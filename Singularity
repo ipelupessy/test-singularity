@@ -1,6 +1,6 @@
 BootStrap: zypper
-OSVersion: 11.4
-MirrorURL: http://download.opensuse.org/distribution/%{OSVERSION}/repo/oss/
+OSVersion: 42.2
+MirrorURL: http://download.opensuse.org/distribution/leap/%{OSVERSION}/repo/oss/
 Include: zypper
 
 %runscript
